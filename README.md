@@ -1,37 +1,62 @@
-## Welcome to GitHub Pages
+XpressEngine 3
+==============
 
-You can use the [editor on GitHub](https://github.com/lee-sang-myeung/web1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[![License](http://img.shields.io/badge/license-GNU%20LGPL-brightgreen.svg)](http://www.gnu.org/licenses/gpl.html) [![Build Status](https://scrutinizer-ci.com/g/xpressengine/xpressengine/badges/build.png?b=master)](https://scrutinizer-ci.com/g/xpressengine/xpressengine/build-status/master) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/xpressengine/xpressengine/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/xpressengine/xpressengine/?branch=master) [![Code Coverage](https://scrutinizer-ci.com/g/xpressengine/xpressengine/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/xpressengine/xpressengine/?branch=master)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+XpressEngine3(XE3) is a service friendly CMS based on a Laravel framework. It provides quick feedback and flexible expansion through various bundle systems. With XE3, you can create the future of the web. 
 
-### Markdown
+## Based on ModernPHP
+XE3 is based on a modern PHP including Composer. It provides autoloading through PSR and a well tested code base. For more information, please refer to the manual. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* [Composer Documentation (Korean)](http://xpressengine.github.io/Composer-korean-docs/)
 
-```markdown
-Syntax highlighted code block
+## Top of Laravel Framework
+Laravel is one of the most modern PHP frameworks and the most popular among them. It has a flexible structure as well as an abundance of verified sources. Basing itself on the Laravel framework, XE3 provides all Laravel functions along with independent CMS functions. For more information, please refer to the manual. 
 
-# Header 1
-## Header 2
-### Header 3
+* [Laravel Documentation (Korean)](http://xpressengine.github.io/laravel-korean-docs/)
 
-- Bulleted
-- List
+## Server Requirements
+* PHP version 7.0.0 greater 
+* PDO PHP Extension
+* cURL PHP Extension
+* FileInfo PHP Extension
+* GD PHP Extension
+* Mbstring PHP Extension
+* OpenSSL PHP Extension
+* Zip PHP Extension
 
-1. Numbered
-2. List
+## Getting Started
 
-**Bold** and _Italic_ and `Code` text
+To install XE3, refer to the following guide. [Install guide](https://xpressengine.gitbooks.io/xpressengine-manual/content/ko/installation.html)
 
-[Link](url) and ![Image](src)
-```
+## Maintainers
+@akasima @bnu @jhyeon1010 @kimyu711 @woongbin
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Documentation
+* Documentation Site (Korean) : https://xpressengine.gitbooks.io/xpressengine-manual/content/ko/
+* Front-end Documentation Site (Korean) : https://xpressengine.gitbooks.io/xpressengine-front-end/content/
 
-### Jekyll Themes
+## Support
+* Official site (Korean) : http://xpressengine.io/
+* Official Forum : http://xpressengine.io/qna/
+* Slack : https://xpressengine-forum-invite.herokuapp.com/
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lee-sang-myeung/web1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## License
+Copyright 2015 NAVER Corp. <http://www.navercorp.com>
 
-### Support or Contact
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU Lesser General Public
+License as published by the Free Software Foundation; either
+version 2.1 of the License, or (at your option) any later version.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This library is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+Lesser General Public License for more details.
+
+You should have received a copy of the GNU Lesser General Public
+License along with this library; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  usage
+
+## Powered By
+* Naver D2 : http://d2.naver.com/
